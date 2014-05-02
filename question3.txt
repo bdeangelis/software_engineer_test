@@ -6,13 +6,13 @@ audience of the question is actually kindergartners.
 
 Complete the sequence...
 
-0091 = 3 
-0113 = 1 
-9999 = 4
-8600 = 5
-6712 = 1
-1115 = 0
-8811 = 4
-4334 = 0
-1001 = 2
-6811 = 3 
+0091 = 3  each 0 has 1 circle, 9 has 1 circle; 3 total circles
+0113 = 1  0 has 1 circle
+9999 = 4  each 9 has a circle; 4 total
+8600 = 5  8 has 2 circles, 6 has 1 circle, each 0 has 1 circle; 5 total circles
+6712 = 1  6 has 1 circle; 1 total
+1115 = 0  0 of the numbers have a circle, 1s are straight and 5s loop is not closed
+8811 = 4  each 8 has a circle; 4 total
+4334 = 0  0 circles, 3s loops are not closed, 4s only have straight lines
+1001 = 2  each 0 has a circle, 1s are straight
+6811 = 3  6 has 1 circle, 8 has 2 circles; 3 total
